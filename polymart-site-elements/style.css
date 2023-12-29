@@ -1,0 +1,319 @@
+*
+{
+        font-family: Arial, Helvetica, sans-serif;
+}
+.div2 
+{
+        position:sticky;
+}
+nav
+{
+        background-color: hsla(0, 3%, 60%, 0.317);
+        padding-bottom:30px;
+        padding-top:30px;
+        width:100%;
+        
+}
+.logo
+{
+        width: 9%;
+        height:5%;
+        margin-right:4%;
+        margin-left:2%;
+}
+a
+{
+        text-decoration: none;
+}
+.about
+{
+        margin-left: 3%;
+        margin-right:3%;
+        color:white;
+        font-size: 20px;
+        
+}
+.aboutbuttonlink
+{
+        color:cornsilk; 
+}
+.aboutbutton
+{
+ 
+        font-size: 20px;
+        margin-left:2%;
+        padding:5px;
+        border-radius:50px;
+        background-color:hsla(0, 3%, 60%, 0.183) ;
+        border-color:aliceblue;
+        border-style: solid;
+}
+
+.div1
+{
+        background-image: url("polymart1.png");
+        background-size:cover;
+        height:100%;
+        width:100%;
+        filter:brightness(80%);
+}
+.header1
+{
+        margin-top:5%;
+        color:cornsilk;
+        font-style: bold; 
+        font-size: 70px;
+        margin-left:4%;
+       
+}
+.div4
+{
+        margin-top:4%;
+        margin-left:9%;
+        margin-right:4%;
+}
+.image2
+{
+        float:left;
+        width:40%;
+        height:70%;
+        
+        margin-right:2%;
+}
+.header2
+{
+        color:rgb(22,22,109); 
+        font-size:35px;
+        font-weight:250;
+}
+.p1
+{
+        font-size:16px;
+        color:rgba(0, 0, 0, 0.792);
+}
+.button2
+{
+        margin-top:2%;
+        background-color: rgb(83, 149, 172);
+        padding:10px 30px;
+        font-size:18px;
+        font-weight:250;
+        border:2px solid white;
+        border-radius: 20px;
+        color:white;
+}
+.button2:hover
+{
+        background-color:white;
+        border:2px solid rgb(83, 149, 172);
+        cursor: pointer;
+        transition: background-color 1s ,color 1s;
+        opacity:0.9;
+        color:rgb(83, 149, 172);
+}
+.divcontainer
+{
+        text-align: center;
+        margin-top:7.5%;
+        height:100%;
+        background-color: hsla(0, 3%, 60%, 0.317);
+}
+.div3
+{
+        display: inline-block;
+        width:20%;
+        border-bottom: 2px solid white;
+        height: 5%;
+        margin-bottom:0.5%;
+        margin-top:3.5%;
+        margin-left:1%;
+        font-family:"Calibri",sans-serif;
+        font-size:16px;
+        font-weight: 500;
+        vertical-align: bottom;
+       
+
+}
+.links
+{
+      color:white;
+
+}
+.divcontainer2
+{
+        margin-top:6%;
+        background-color:rgb(83, 149, 172);
+        float: left;
+        width:100%;
+        height:100%;
+        font-family:Arial, Helvetica, sans-serif;
+        margin-bottom:5%;
+}
+ .p1
+ {
+        color:rgba(0, 0, 0, 0.614);
+        font-size:18px;
+ }
+ li
+ {   
+        font-size:20px;
+        color: white;
+        padding-bottom:10px;
+        padding-top:10px;
+        border-bottom:2px solid white;
+ }
+ .biglist
+ {
+        font-weight: bold;
+        font-size:40px;
+ }
+.left
+{
+        margin-left:5%;
+        width:52%;
+        padding-bottom:2%;
+}
+.right
+{
+        margin-left:3%;
+        width:28%;
+        margin-right:12%;
+        padding-bottom:2%;
+}
+.photo02
+{
+        width:100%;
+        height:100%;
+}
+.p2
+{ 
+color:white;
+font-size:16px;
+}
+.div5
+{
+        margin-top:8%;
+        height:100%;
+        margin-right:5%;
+        margin-left:9%;
+}
+.header3
+{
+        padding-bottom:2%;
+        margin-right:18%;
+        font-size: 40px;
+        font-weight: bold;
+        color:rgb(22,22,109);
+        border-bottom: 3px solid rgb(22, 22, 109); 
+}
+.partners
+{
+        margin-right:9.5%;
+        width:10%;
+        height:10%;
+}
+.newsdiv
+{
+        margin-top:8%;
+        height:100%;
+        margin-right:5%;
+        margin-left:9%;
+}
+
+
+.cards
+{
+        display: inline-block; 
+        margin-top:2%;
+        width:42%;
+        height:100%;
+ 
+        
+}
+.cardstext
+{
+        position: relative;
+        top:-28px;
+}
+
+
+  
+.newsphoto
+{
+        width:100%;
+        height:100%;
+        padding-top:4%;
+        padding-bottom:3%;
+        padding-right:3%;
+}
+
+.newslink
+{
+        color:black;
+        font-weight: bold;
+        font-size:25px;   
+}
+.wholenews,.newsdate
+{
+        font-size:14px;
+        color:rgba(2, 2, 2, 0.575);
+}
+footer
+{
+        margin-top:3%;
+        background-color: rgb(11, 11, 86);
+}
+.footerdiv
+{
+        padding-left:10%;
+        padding-right:4%;
+        padding-top:6%;
+        display: flex;   
+}
+.footerdivin
+{ 
+        margin-right:18%;
+}
+
+.logophoto
+{
+        width:30%;
+        height:13%;
+        padding-bottom:2%;
+}
+.about1
+{
+        color:white;
+        font-size: 22px;
+}
+.fa-phone,.fa-envelope
+{
+        color:white;
+        text-decoration: underline;
+}
+.socialmedia
+{
+        margin-top:12%;
+}
+ul
+{
+        list-style-type: none;
+        display:inline-block;
+}
+.about3
+{
+        color:white;
+}
+.theendlogo
+{
+        margin-top:5%;
+        text-align: center;
+        color:white;
+        font-size:15px;
+        padding-bottom:2%;
+}
+
+
+
+
+
